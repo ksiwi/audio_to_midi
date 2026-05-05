@@ -1,0 +1,6 @@
+Machine Learning project where the goal is to have an audio file and transfer it into MIDI
+
+For the current stage of the project, I will be using the TinySOL2020 database: https://zenodo.org/records/3685331
+(I couldn't put it into this folder because it was too much space, but just make a folder called data and put it into data)
+Current Stage:
+    Working on single note from a singular instrument, planning to implement this with a Random Forest Classifier
